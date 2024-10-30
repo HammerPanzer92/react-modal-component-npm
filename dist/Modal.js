@@ -10,7 +10,6 @@ function Modal(props) {
   var message = props.message || "";
   if (props.visible) {
     return /*#__PURE__*/_react["default"].createElement("div", {
-      id: "confirmation",
       className: "modal"
     }, /*#__PURE__*/_react["default"].createElement("div", {
       className: "modal-content"

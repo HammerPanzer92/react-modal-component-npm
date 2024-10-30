@@ -1,5 +1,5 @@
 {
-  "name": "my-react-modal",
+  "name": "rd-panzer-modal",
   "version": "1.0.0",
   "description": "A simple modal component for React",
   "main": "dist/index.js",
