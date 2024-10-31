@@ -13,7 +13,10 @@ function Modal(props) {
       className: "modal"
     }, /*#__PURE__*/_react["default"].createElement("div", {
       className: "modal-content"
-    }, /*#__PURE__*/_react["default"].createElement("p", null, message), /*#__PURE__*/_react["default"].createElement("button", {
+    }, /*#__PURE__*/_react["default"].createElement("p", {
+      className: "modal-msg"
+    }, message), /*#__PURE__*/_react["default"].createElement("button", {
+      className: "modal-btn",
       onClick: props.onClose
     }, "Ok")));
   }
