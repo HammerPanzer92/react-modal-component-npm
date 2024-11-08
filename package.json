@@ -1,6 +1,6 @@
 {
   "name": "rd-panzer-modal",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "A simple modal component for React",
   "main": "./dist/Modal.js",
   "exports": {
