@@ -1,6 +1,6 @@
 {
   "name": "rd-panzer-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple modal component for React",
   "main": "dist/index.js",
   "scripts": {
@@ -27,5 +27,9 @@
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
     "@babel/preset-react": "^7.25.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HammerPanzer92/react-modal-component-npm.git"
   }
 }
