@@ -1,6 +1,8 @@
 # Simple React modal component
 
 A simple modal component for React
+Tested with node 20.15.1
+and React 18.3.1
 
 ## How to use
 
