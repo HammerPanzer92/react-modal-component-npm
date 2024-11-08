@@ -1,8 +1,12 @@
 {
   "name": "rd-panzer-modal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple modal component for React",
-  "main": "dist/index.js",
+  "main": "./dist/Modal.js",
+  "exports": {
+    ".": "./index.js",
+    "./dist/Modal.js": "./dist/Modal.js"
+  },
   "scripts": {
     "build": "babel src --out-dir dist",
     "test": "echo \"No tests specified\" && exit 0"
